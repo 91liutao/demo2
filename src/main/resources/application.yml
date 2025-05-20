@@ -26,3 +26,4 @@ aliyun:
         endpoint: https://oss-cn-beijing.aliyuncs.com
         bucketName: java-web-ai-123
         region: cn-beijing
+#   2222222
